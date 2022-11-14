@@ -11,10 +11,9 @@ This work is an assignment on understanding CSS properties (box-model).
 ## Languages Used
 - HTML
 - CSS
-
 ## Acknowledgements and Resources
-. Stutern
-. Youtube
-. W3Schools
+- Stutern
+- Youtube
+- W3Schools
 
-## Hosted link - 
+## Hosted link - https://busybeebee11.github.io/css-properties/
